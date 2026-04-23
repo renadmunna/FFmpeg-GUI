@@ -1,0 +1,10 @@
+# Development-only dependencies, used for building the portable executable.
+#
+# Install these only when you want to produce a distributable binary:
+#     pip install -r requirements-dev.txt
+#
+# PyInstaller bundles the Python interpreter, your source, and PySide6 into
+# a self-contained folder. We don't need it to run the app during normal
+# development, which is why it's split out here.
+-r requirements.txt
+pyinstaller>=6.0

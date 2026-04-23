@@ -1,0 +1,59 @@
+('E:\\WorkSpace\\my\\projects\\ffmpeg '
+ 'gui\\claude1\\ffmpeg-gui\\build\\FFmpegGUI\\FFmpegGUI.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg '
+   'gui\\claude1\\ffmpeg-gui\\build\\FFmpegGUI\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg '
+   'gui\\claude1\\ffmpeg-gui\\build\\FFmpegGUI\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg '
+   'gui\\claude1\\ffmpeg-gui\\build\\FFmpegGUI\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg '
+   'gui\\claude1\\ffmpeg-gui\\build\\FFmpegGUI\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg '
+   'gui\\claude1\\ffmpeg-gui\\build\\FFmpegGUI\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg '
+   'gui\\claude1\\ffmpeg-gui\\build\\FFmpegGUI\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg '
+   'gui\\claude1\\ffmpeg-gui\\.venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg '
+   'gui\\claude1\\ffmpeg-gui\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyside6',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg '
+   'gui\\claude1\\ffmpeg-gui\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyside6.py',
+   'PYSOURCE'),
+  ('run',
+   'E:\\WorkSpace\\my\\projects\\ffmpeg gui\\claude1\\ffmpeg-gui\\run.py',
+   'PYSOURCE')],
+ 'python310.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
