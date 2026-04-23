@@ -1,2 +1,2 @@
 # FFmpeg-GUI
-A lightweight, portable, and beginner-friendly desktop application for simple video editing and conversion, built with Python and PyQt6. It acts as a wrapper around FFmpeg, allowing users to crop, trim, rotate, flip, and join videos directly into standard MP4 files.
+A lightweight, portable desktop video editor written in Python. It is a focused graphical wrapper around FFmpeg and FFprobe, built for people who want a simple way to cut, crop, rotate, flip, join, and convert videos without learning command-line flags and without installing a full non-linear editor. Every export produces an MP4 file, and the application is designed to be packaged as a single portable executable when you are ready to ship it.
